@@ -10,8 +10,8 @@ This project was focused on analysing Financial Complaints by customers to impro
 ## Raw Data:
 ![](/Images/Screenshot%20(19).png)
 
-## SQL Queries used For EDA:
-![](/images/SQL_QUERIES_FOR_EDA.png)
+## Final Dashboard:
+![](/Images/FINAL%20DASHBOARD%20(3).png)
 
 ## Findings:
 * Nearly 98.1% of Quereis were resolved in Time and around 84.5% of Queries were resolved with no cost.
