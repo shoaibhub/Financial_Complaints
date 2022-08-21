@@ -8,7 +8,7 @@ This project was focused on analysing Financial Complaints by customers to impro
 * Made a Dashboard Highlighting KPI's and insights that would help the company Develop better Customer Service Strategies and retain customers
 
 ## Raw Data:
-![](/Images/Rawdata.png)
+![](/Images/Raw-Data.png)
 
 ## Final Dashboard:
 ![](/Images/Final-Dashboard.png)
