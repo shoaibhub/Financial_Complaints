@@ -11,7 +11,7 @@ This project was focused on analysing Financial Complaints by customers to impro
 ![](/Images/Screenshot%20(19).png)
 
 ## Final Dashboard:
-![](/Images/FINAL%20DASHBOARD%20(3).png)
+![](/Images/Financial%20complaints-final.png)
 
 ## Findings:
 * Nearly 98.1% of Quereis were resolved in Time and around 84.5% of Queries were resolved with no cost.
