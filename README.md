@@ -7,8 +7,8 @@ This project was focused on analysing Financial Complaints by customers to impro
 * Performed ETL and EDA Using tableau.
 * Made a Dashboard Highlighting KPI's and insights that would help the company Develop better Customer Service Strategies and retain customers
 
-## Final dashboard picture:
-![](/images/Telecom_project_picture.png)
+## Raw Data:
+![](/Images/Screenshot%20(19).png)
 
 ## SQL Queries used For EDA:
 ![](/images/SQL_QUERIES_FOR_EDA.png)
