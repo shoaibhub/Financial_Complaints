@@ -14,7 +14,7 @@ This project was focused on analysing Financial Complaints by customers to impro
 ![](/Images/Final-Dashboard.png)
 
 ## Findings:
-* Nearly 98.1% of Quereis were resolved in Time and around 84.5% of Queries were resolved with no cost.
+* Nearly 98.1% of Queries were resolved in Time and around 84.5% of Queries were resolved with no cost.
 * The highest amount of issues faced by customers were during Managing an account and deoposits/withdrawals.
 * highest amount of complaints were coming from CA and NY and the Media by which the customers mostly registered complaints were Web, Referral and Phone
 * Credit Card saw the highest amount of complains followed by Checking and savings account.
